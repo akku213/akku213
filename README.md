@@ -4,7 +4,7 @@
 
 ## Small Bio (☞ﾟヮﾟ)☞
 
-Hi there!🖐 I'm a human being disguised as a software developer :man_technologist:. I spend my days typing on a ⌨, drinking ☕, and trying to understand why my code doesn't work 👁👄👁. When I'm not coding, you can find me 👀 anime, goofing around, or trying to teach my cat how to code.
+Hey there! 🖐 I'm Akanksha, a cute goofball who spends her days coding on a keyboard and figuring out why my code doesn't work 👁👄👁. When I'm not coding, I'm either watching anime, goofing around, or creating art. Oh, and I love solving sudoku puzzles too!
 
 I'm on a mission to write software that doesn't make people want to throw their computers out the window 👾. I have experience in a variety of programming languages and technologies, and I'm always learning new things.
 
@@ -36,8 +36,8 @@ If you're looking for someone who can write code and make you laugh at the same 
 ### 👽 I have at least 5 min experience in any of these Languages:
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) (Barely survived this)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (Creating too much hype for me)
-* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Surviving this for DSA)
-* ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) (Because who needs structured data anyway?)
+* ![Node JS](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) (Because who needs structured data anyway?)
+* ![React](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) (Loved it becuase it's simple)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) (Can't make life dynamic, atleast make a website)
 
