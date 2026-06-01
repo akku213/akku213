@@ -32,14 +32,14 @@ If you're looking for someone who can write code and make you laugh at the same 
   - J. B. Ludhani High School
   - 91.40%
   
-## Some basic info:
+## Tech Stack⚡:
 ### 👽 I have at least 5 min experience in any of these Languages:
-* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) (Barely survived this)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (Creating too much hype for me)
-* ![Node JS](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) (Because who needs structured data anyway?)
-* ![React](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) (Loved it becuase it's simple)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) (Can't make life dynamic, atleast make a website)
+Category	Technologies
+Frontend	React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, Shadcn UI
+Backend	Node.js, Express.js, RESTful APIs, Microservices, WebRTC, Socket.io
+Database	MongoDB, PostgreSQL, Firestore, Redis
+DevOps & Cloud	Docker, Kubernetes, AWS (EC2, S3), GitHub Actions (CI/CD), Nginx
+Tools & Architectures	Git, Postman, Figma, MVC, Controller-Service-Repository Pattern
 
 ## 👾 How to reach me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-shrivastav/)
