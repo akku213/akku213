@@ -2,7 +2,7 @@
 
 Hey there🖐 I'm Akanksha, a cute goofball who spends her days coding on a keyboard and figuring out why my code doesn't work 👁👄👁. When I'm not coding, I'm either watching anime, goofing around, or creating art. Oh, and I love solving sudoku puzzles too!
 
-I’m a self-taught Full Stack Developer passionate about building modern web applications and continuously learning through the process. My expertise lies in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, where I focus on building scalable applications and seamless user experiences.
+I’m a self-taught Full Stack Developer passionate about building modern web applications and continuously learning through the process. My expertise lies in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 
 Passionate about building scalable, high-performance web applications with clean architecture and seamless user experiences. Always open to collaborating on meaningful products and turning ideas into reality.
 
