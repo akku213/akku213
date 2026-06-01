@@ -1,26 +1,22 @@
-# Hello Internet users!!!  o(*￣▽￣*)ブ
-
-I build scalable, high-performance web applications with a focus on clean architecture and seamless user experiences.
-
 ## Small Bio (☞ﾟヮﾟ)☞
 
-Hey there! 🖐 I'm Akanksha, a cute goofball who spends her days coding on a keyboard and figuring out why my code doesn't work 👁👄👁. When I'm not coding, I'm either watching anime, goofing around, or creating art. Oh, and I love solving sudoku puzzles too!
+Hey there🖐 I'm Akanksha, a cute goofball who spends her days coding on a keyboard and figuring out why my code doesn't work 👁👄👁. When I'm not coding, I'm either watching anime, goofing around, or creating art. Oh, and I love solving sudoku puzzles too!
 
 I’m a self-taught Full Stack Developer passionate about building modern web applications and continuously learning through the process. I enjoy transforming ideas into scalable products through clean code, thoughtful design, and problem-solving.
 
-If you're looking for someone who can write code and make you laugh at the same time, I'm your person (●'◡'●). Let's build something awesome together! 🤝
-  
+Passionate about building scalable, high-performance web applications with clean architecture and seamless user experiences. Always open to collaborating on meaningful products and turning ideas into reality.
+
 ## Tech Stack⚡:
 ### 👽 I have at least 5 min experience in any of these Languages:
 
 
 | Category | Technologies |
 |----------|--------------|
-| Frontend | React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, Shadcn UI |
+| Frontend | JavaScript, React.js, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion |
 | Backend | Node.js, Express.js, REST APIs, Microservices, WebRTC, Socket.io |
-| Database | MongoDB, PostgreSQL, Firestore, Redis |
+| Database | MongoDB, PostgreSQL, Oracle |
 | DevOps & Cloud | Docker, Kubernetes, AWS (EC2, S3), GitHub Actions (CI/CD), Nginx |
-| Tools & Architecture | Git, Postman, Figma, MVC, Controller-Service-Repository Pattern |
+| Tools & Architecture | Git, Postman, Figma, MVC |
 
 ## Education: 🎓
 
