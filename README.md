@@ -1,6 +1,6 @@
 # Hello Internet users!!!  o(*￣▽￣*)ブ
 
-### Welcome to my ✨special✨ repository.
+I build scalable, high-performance web applications with a focus on clean architecture and seamless user experiences.
 
 ## Small Bio (☞ﾟヮﾟ)☞
 
@@ -9,21 +9,6 @@ Hey there! 🖐 I'm Akanksha, a cute goofball who spends her days coding on a ke
 I’m a self-taught Full Stack Developer passionate about building modern web applications and continuously learning through the process. I enjoy transforming ideas into scalable products through clean code, thoughtful design, and problem-solving.
 
 If you're looking for someone who can write code and make you laugh at the same time, I'm your person (●'◡'●). Let's build something awesome together! 🤝
-
-## A quick intro: 📃
-
-* Name: Akanksha Shrivastav
-* Age: 27
-* Current location: Mumbai
-* Status: Available for hire
-* Occupation: Full Stack Developer
-
-## Education: 🎓
-
-* SNDT Women's University
-  - Usha Mittal Institute Of Technology
-  - B. Tech (CST) | CGPA 8.75
-  - (Aug 2016 - Oct 2020) 
   
 ## Tech Stack⚡:
 ### 👽 I have at least 5 min experience in any of these Languages:
@@ -36,6 +21,13 @@ If you're looking for someone who can write code and make you laugh at the same 
 | Database | MongoDB, PostgreSQL, Firestore, Redis |
 | DevOps & Cloud | Docker, Kubernetes, AWS (EC2, S3), GitHub Actions (CI/CD), Nginx |
 | Tools & Architecture | Git, Postman, Figma, MVC, Controller-Service-Repository Pattern |
+
+## Education: 🎓
+
+* SNDT Women's University
+  - Usha Mittal Institute Of Technology
+  - B. Tech (CST) | CGPA 8.75
+  - (Aug 2016 - Oct 2020) 
 
 ## 👾 How to reach me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-shrivastav/)
