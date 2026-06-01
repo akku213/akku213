@@ -34,12 +34,15 @@ If you're looking for someone who can write code and make you laugh at the same 
   
 ## Tech Stack⚡:
 ### 👽 I have at least 5 min experience in any of these Languages:
-Category	Technologies
-Frontend	React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, Shadcn UI
-Backend	Node.js, Express.js, RESTful APIs, Microservices, WebRTC, Socket.io
-Database	MongoDB, PostgreSQL, Firestore, Redis
-DevOps & Cloud	Docker, Kubernetes, AWS (EC2, S3), GitHub Actions (CI/CD), Nginx
-Tools & Architectures	Git, Postman, Figma, MVC, Controller-Service-Repository Pattern
+
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, Shadcn UI |
+| Backend | Node.js, Express.js, REST APIs, Microservices, WebRTC, Socket.io |
+| Database | MongoDB, PostgreSQL, Firestore, Redis |
+| DevOps & Cloud | Docker, Kubernetes, AWS (EC2, S3), GitHub Actions (CI/CD), Nginx |
+| Tools & Architecture | Git, Postman, Figma, MVC, Controller-Service-Repository Pattern |
 
 ## 👾 How to reach me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-shrivastav/)
