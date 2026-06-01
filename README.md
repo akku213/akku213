@@ -6,31 +6,24 @@
 
 Hey there! 🖐 I'm Akanksha, a cute goofball who spends her days coding on a keyboard and figuring out why my code doesn't work 👁👄👁. When I'm not coding, I'm either watching anime, goofing around, or creating art. Oh, and I love solving sudoku puzzles too!
 
-I'm on a mission to write software that doesn't make people want to throw their computers out the window 👾. I have experience in a variety of programming languages and technologies, and I'm always learning new things.
+I’m a self-taught Full Stack Developer passionate about building modern web applications and continuously learning through the process. I enjoy transforming ideas into scalable products through clean code, thoughtful design, and problem-solving.
 
 If you're looking for someone who can write code and make you laugh at the same time, I'm your person (●'◡'●). Let's build something awesome together! 🤝
 
 ## A quick intro: 📃
 
 * Name: Akanksha Shrivastav
-* Age: 24
+* Age: 27
 * Current location: Mumbai
 * Status: Available for hire
-* Occupation: Software Engineer
+* Occupation: Full Stack Developer
 
 ## Education: 🎓
 
 * SNDT Women's University
   - Usha Mittal Institute Of Technology
-  - B. Tech (CST)   
-  - (Aug 2016 - Oct 2020)  
-* HSC 
-  - Vidya Vikasini Jr College
-  - Science
-  - (2014 - 2016)
-* SSC
-  - J. B. Ludhani High School
-  - 91.40%
+  - B. Tech (CST) | CGPA 8.75
+  - (Aug 2016 - Oct 2020) 
   
 ## Tech Stack⚡:
 ### 👽 I have at least 5 min experience in any of these Languages:
